@@ -3,3 +3,9 @@
 Starting script files for the week 3 lab.
 
 See D2L for lab instructions
+
+
+## Group member:
+
+Chiao-Jhu(Katy) Chan 
+Paulo Hernandez
