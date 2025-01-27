@@ -7,5 +7,5 @@ See D2L for lab instructions
 
 ## Group member:
 
-Chiao-Jhu(Katy) Chan 
-Paulo Hernandez
+1. Chiao-Jhu(Katy) Chan 
+2. Paulo Hernandez
